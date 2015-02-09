@@ -1,5 +1,5 @@
-namespace java com.to8to.filter.thrift
-namespace php com.to8to.filter.thrift
+namespace java com.zyx.filter.thrift
+namespace php com.zyx.filter.thrift
 
 /** 
  * 关键字过滤行为类型 
